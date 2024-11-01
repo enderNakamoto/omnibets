@@ -122,7 +122,6 @@ impl Contract {
 
 
     // proxy to call MPC_CONTRACT_ACCOUNT_ID method sign if COST is deposited
-    #[payable]
     pub fn liquidate(&mut self, rlp_payload: String, path: String, key_version: u32) -> Promise {
         let owner = env::predecessor_account_id() == env::current_account_id();
 
@@ -165,7 +164,6 @@ impl Contract {
     }
 
     // proxy to call MPC_CONTRACT_ACCOUNT_ID method sign if COST is deposited
-    #[payable]
     pub fn mature(&mut self, rlp_payload: String, path: String, key_version: u32) -> Promise {
         let owner = env::predecessor_account_id() == env::current_account_id();
 

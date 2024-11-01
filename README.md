@@ -2,9 +2,14 @@
 
 Note: The starting point of the repo is the fork for Near example on hwo to interact with EVM chain from Near Protocol. https://github.com/near-examples/chainsig-script
 
-Other Repos: 
-EVM Vault Protocol: 
-EVM Encrypted Vault Protocol: 
+The Near contract is here, along with some tests
+https://github.com/enderNakamoto/omnibets/blob/main/near_contracts/src/lib.rs
+
+**Other Repos of the project: **
+Two Favors of EVM Vaults controlled by Near Smart contract: 
+
+EVM Vault Protocol: https://github.com/enderNakamoto/omnibets_vault
+EVM Encrypted Vault Protocol: https://github.com/enderNakamoto/omnibets_vault_fhenix
 
 ## What is OmniBets
 
