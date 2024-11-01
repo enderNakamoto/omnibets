@@ -6,10 +6,11 @@ The Near contract is here, along with some tests
 https://github.com/enderNakamoto/omnibets/blob/main/near_contracts/src/lib.rs
 
 **Other Repos of the project: **
-Two Favors of EVM Vaults controlled by Near Smart contract: 
 
-EVM Vault Protocol: https://github.com/enderNakamoto/omnibets_vault
-EVM Encrypted Vault Protocol: https://github.com/enderNakamoto/omnibets_vault_fhenix
+#### Two Favors of EVM Vaults controlled by Near Smart contract: 
+
+* EVM Vault Protocol: https://github.com/* enderNakamoto/omnibets_vault
+* EVM Encrypted Vault Protocol: https://github.com/enderNakamoto/omnibets_vault_fhenix
 
 ## What is OmniBets
 
