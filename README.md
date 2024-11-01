@@ -55,4 +55,10 @@ The system has two primary flavors of vaults, each designed to support different
 - The **Acurast Oracle** supplies off-chain data required to trigger specific bet conditions. This data is crucial for the liquidation and maturity mechanisms, as it provides the external information necessary to evaluate bet outcomes.
 - **Trusted Execution Environment (TEE)**: The Acurast Oracle uses Node.js scripts running within a TEE to securely fetch and relay data from external APIs (like weather or financial data) to the NEAR contract.
 
-This architecture enables scalability, privacy, and adaptability, supporting multiple betting protocols while providing users with options for data transparency and protection.
+Basically, using Acurast we can call any API and forward the reuslt to smart contractw without  too much trust overhear 
+
+Note: You can find out more on Acurast's trust minimized processing here - https://docs.acurast.com/acurast-protocol/architecture/end-to-end/
+
+## Conclusion:
+Overall, This architecture enables scalability, privacy, and adaptability, supporting multiple betting(prediction market) protocols while providing users with options for data transparency and protection.
+
