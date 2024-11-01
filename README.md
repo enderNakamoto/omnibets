@@ -16,7 +16,7 @@ https://github.com/enderNakamoto/omnibets/blob/main/near_contracts/src/lib.rs
 
 It is a decentralized Betting and Hedging System
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 This system is designed to create a decentralized betting and hedging environment that spans across different EVM-compatible chains, including standard EVM chains and specialized chains like Fhenix. The architecture leverages a **NEAR contract** to control vaults on multiple EVM chains, enabling unified control and coordination over various types of vaults, each with unique properties.
 
