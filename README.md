@@ -9,7 +9,7 @@ https://github.com/enderNakamoto/omnibets/blob/main/near_contracts/src/lib.rs
 
 #### Two Favors of EVM Vaults controlled by Near Smart contract: 
 
-* EVM Vault Protocol: https://github.com/* enderNakamoto/omnibets_vault
+* EVM Vault Protocol: https://github.com/enderNakamoto/omnibets_vault
 * EVM Encrypted Vault Protocol: https://github.com/enderNakamoto/omnibets_vault_fhenix
 
 ## What is OmniBets
