@@ -1,6 +1,6 @@
 # Overview
 
-Note: The starting point of the repo is the fork for Near example on hwo to interact with EVM chain from Near Protocol. https://github.com/near-examples/chainsig-script
+Note: The starting point of the repo is the fork for Near example on how to interact with EVM chain from Near Protocol. https://github.com/near-examples/chainsig-script
 
 The Near contract is here, along with some tests
 https://github.com/enderNakamoto/omnibets/blob/main/near_contracts/src/lib.rs
